@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "DevOpsLab1\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Index.cshtml",
               "RelativeToolTip": "DevOpsLab1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T01:33:22.253Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "DevOpsLab1\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T01:28:14.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T01:28:14.075Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "DevOpsLab1\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T01:26:26.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T01:26:26.827Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "DevOpsLab1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T01:26:26.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T01:26:26.031Z"
             }
           ]
         }
