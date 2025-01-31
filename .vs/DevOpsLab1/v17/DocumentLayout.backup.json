@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|c:\\users\\rashid\\source\\repos\\devopslab1\\devopslab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|solutionrelative:devopslab1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|c:\\users\\rashid\\source\\repos\\devopslab1\\devopslab1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|solutionrelative:devopslab1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|c:\\users\\rashid\\source\\repos\\devopslab1\\devopslab1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|solutionrelative:devopslab1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|c:\\users\\rashid\\source\\repos\\devopslab1\\devopslab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AB3CEC6-CAAD-4830-9D9B-5290BAB6B496}|DevOpsLab1\\DevOpsLab1.csproj|solutionrelative:devopslab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevOpsLab1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DevOpsLab1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T01:33:22.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "DevOpsLab1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "DevOpsLab1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:28:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DevOpsLab1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "DevOpsLab1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T01:26:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\appsettings.json",
+              "RelativeDocumentMoniker": "DevOpsLab1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rashid\\source\\repos\\DevOpsLab1\\DevOpsLab1\\appsettings.json",
+              "RelativeToolTip": "DevOpsLab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T01:26:26.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
