@@ -28,3 +28,4 @@ C:\Users\Rashid\source\repos\DevOpsLab1\DevOpsLab1\obj\Debug\net8.0\refint\DevOp
 C:\Users\Rashid\source\repos\DevOpsLab1\DevOpsLab1\obj\Debug\net8.0\DevOpsLab1.pdb
 C:\Users\Rashid\source\repos\DevOpsLab1\DevOpsLab1\obj\Debug\net8.0\DevOpsLab1.genruntimeconfig.cache
 C:\Users\Rashid\source\repos\DevOpsLab1\DevOpsLab1\obj\Debug\net8.0\ref\DevOpsLab1.dll
+C:\Users\Rashid\source\repos\DevOpsLab1\DevOpsLab1\obj\Debug\net8.0\DevOpsLab1.sourcelink.json
